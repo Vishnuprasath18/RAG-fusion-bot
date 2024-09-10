@@ -1,6 +1,4 @@
-Here’s a basic `README.md` for your Insurance Bot project:
 
----
 
 # AI Insurance Agent Bot
 
